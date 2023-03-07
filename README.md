@@ -32,10 +32,14 @@ The [entropy][entropy] (in [nats][nats]) for a [geometric][geometric-distributio
 
 <!-- <equation class="equation" label="eq:geometric_entropy" align="center" raw="H\left( X \right) = \tfrac {-(1-p)\ln(1-p)-p\ln(p)}{p}" alt="Differential entropy for a geometric distribution."> -->
 
-<div class="equation" align="center" data-raw-text="H\left( X \right) = \tfrac {-(1-p)\ln(1-p)-p\ln(p)}{p}" data-equation="eq:geometric_entropy">
+```math
+H\left( X \right) = \tfrac {-(1-p)\ln(1-p)-p\ln(p)}{p}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="H\left( X \right) = \tfrac {-(1-p)\ln(1-p)-p\ln(p)}{p}" data-equation="eq:geometric_entropy">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/geometric/entropy/docs/img/equation_geometric_entropy.svg" alt="Differential entropy for a geometric distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -207,7 +211,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
