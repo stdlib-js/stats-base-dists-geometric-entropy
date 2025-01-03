@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-03)
+
+<section class="features">
+
+### Features
+
+-   [`9bacbef`](https://github.com/stdlib-js/stdlib/commit/9bacbef38dff0ce594d9abd4f7073b0135cb56b1) - add C implementation for `stats/base/dists/geometric/entropy` [(#4180)](https://github.com/stdlib-js/stdlib/pull/4180)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3631](https://github.com/stdlib-js/stdlib/issues/3631)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9bacbef`](https://github.com/stdlib-js/stdlib/commit/9bacbef38dff0ce594d9abd4f7073b0135cb56b1) - **feat:** add C implementation for `stats/base/dists/geometric/entropy` [(#4180)](https://github.com/stdlib-js/stdlib/pull/4180) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
