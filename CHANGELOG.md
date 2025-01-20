@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-13)
+## Unreleased (2025-01-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f75a0ce`](https://github.com/stdlib-js/stdlib/commit/f75a0cef6a3112b166dba04c13bada9763cec350) - **chore:** use excess kurtosis consistently _(by Philipp Burckhardt)_
 -   [`9bacbef`](https://github.com/stdlib-js/stdlib/commit/9bacbef38dff0ce594d9abd4f7073b0135cb56b1) - **feat:** add C implementation for `stats/base/dists/geometric/entropy` [(#4180)](https://github.com/stdlib-js/stdlib/pull/4180) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 
 </details>
